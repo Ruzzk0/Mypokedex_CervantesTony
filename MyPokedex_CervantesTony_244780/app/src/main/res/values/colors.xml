@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+        <color name="pokeball_red">#D32F2F</color>
+        <color name="pokeball_white">#FFFFFF</color>
+        <color name="electric_yellow">#FFEB3B</color>
+        <color name="pikachu_orange">#FFA726</color>
+        <color name="squirtle_blue">#03A9F4</color>
+        <color name="bulbasaur_green">#4CAF50</color>
+        <color name="charizard_orange">#FF7043</color>
+        <color name="gengar_purple">#7B1FA2</color>
+    </resources>
