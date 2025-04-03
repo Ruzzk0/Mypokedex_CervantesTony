@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyPokedex_CervantesTony_244780</string>
+    <string name="my_pokedex">My Pokedex</string>
+    <string name="agregar_pokemon">Agregar Pokemon</string>
+    <string name="n_mero_de_pokemon">Número de Pokemon</string>
+    <string name="nombre_del_pokemon">Nombre del Pokemon</string>
+    <string name="subir_imagen">Subir imagen</string>
+    <string name="guardar_pokemon">Guardar pokemon</string>
 </resources>

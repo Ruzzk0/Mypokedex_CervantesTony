@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598730672662",
+    "project_id": "mypokedex-73410",
+    "storage_bucket": "mypokedex-73410.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598730672662:android:b86cb189feac26249bc337",
+        "android_client_info": {
+          "package_name": "cervantes.fedra.mypokedex_cervantestony_244780"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHvZezG7-B1mBnC9TsT8octNJa5e5k0fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
